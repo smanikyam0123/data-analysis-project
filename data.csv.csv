@@ -1,0 +1,10 @@
+order_id,customer_id,product_name,category,price,region,marketing_channel,returned
+101,C01,Shoes,Footwear,2500,South,Instagram,No
+102,C02,Laptop,Electronics,55000,North,Website,No
+103,C03,T-Shirt,Clothing,1200,East,Facebook,No
+104,C04,Watch,Accessories,3500,West,Amazon,Yes
+105,C05,Mobile,Electronics,22000,South,Flipkart,Yes
+106,C06,Jeans,Clothing,1800,North,Instagram,No
+107,C07,Sandals,Footwear,1500,East,Website,No
+108,C08,Headphones,Electronics,3000,West,Amazon,Yes
+109,C09,Backpack,Accessories,2000,South,Facebook,No
